@@ -1,0 +1,41 @@
+header{height: 90px;width: 1000px;margin: 0 auto}
+header p{margin-top: 22px;display: inline-block}
+header ul{float: right;margin: 39px 90px 37px 0}
+header ul li{float: left;line-height: 14px}
+header ul li a{padding: 39px 26px 37px 26px;font: 14px}
+header ul li:nth-child(1) a{padding:39px 31px 37px 31px;}
+header ul li:nth-child(2) a{padding-left:23px}
+header ul .on a{background:#1ab4c3;color: white}
+header ul a:hover {background:#1ab4c3;color: white}
+/*H5头部*/
+
+.banner{background:url(../images/banner5.png)no-repeat center 0;width:100%; height:330px;}
+
+figure {width: 1000px;margin: 0 auto;clear: both;}
+figure p{width: 704px;height: 120px;font:20px "方正兰亭纤黑 GBK";line-height:36px;color: #8394a6;text-align: center;margin: 82px auto 0 auto}
+figure video{margin-left:158px}
+figure p:nth-of-type(2){font:22px "方正兰亭纤黑 GBK";height: 36px;margin-top:73px;line-height: 36px}
+figure p:nth-of-type(3){font:22px "方正兰亭纤黑 GBK";height: 36px;margin:0 auto 52px auto;line-height: 36px;}
+figure ul li {height:220px;width:335px;float: left;}
+figure ul li:nth-of-type(2) {width: 330px}
+figure ul li:nth-of-type(5){width: 330px;margin-bottom: 80px}
+
+.contet {clear: both;background:#f0f3f6;overflow: hidden}
+aside {width: 1000px;margin: 0 auto;}
+aside dl{float: left;text-align: center;width: 160px;margin: 76px 38px 60px 38px;line-height: 22px;font-size: 14px;color: #666666}
+aside dl:nth-of-type(1){margin-left: 62px}
+aside dl:nth-of-type(4){margin-right:65px}
+aside dl dt img{width: 110px;height: 110px;border:3px solid white;border-radius: 50%}
+aside ul {text-align: center;margin-bottom:100px }
+aside ul li {font: 22px "方正兰亭纤黑 GBK";line-height: 22px;color:#99a7b6}
+aside ul li span{font:30px Adobe Caslon Pro;color:#28b8c6;text-transform: uppercase;line-height:62px;}
+
+footer {background:#1ab4c3;height: 160px}
+footer p{padding:55px 0 13px 0;display: inline-block}
+footer p a{color: white;font-size: 12px}
+footer p em{height: 11px;width: 1px;display: inline-block;background: white;margin: 0 17px}
+footer dl{float: right;position: relative;margin-top:55px }
+footer dl dt img{border-radius: 100%;position: absolute;top:0px;left:0px;}
+footer dd {margin:1px 17px 0 39px;line-height: 12px;font: 12px "微软雅黑";color: white}
+footer ul li{color: white}
+footer a:hover{color: chocolate}
