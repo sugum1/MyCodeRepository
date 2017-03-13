@@ -1,0 +1,52 @@
+.banner{background:url(../images/banner3.png)no-repeat center 0;width:100%; height:330px;}
+
+.em h1 {padding-top: 80px}
+.em p{margin-bottom: 15px}
+.em p:nth-of-type(2){width: 697px;line-height: 26px;margin:0 auto;font: 14px "微软雅黑";color: black}
+.em dl {float: left;margin:46px 0 6px 167px;text-align: center}
+.em dl:nth-of-type(1){margin-left:81px}
+.em dl:nth-of-type(4){margin-left:81px;margin-bottom: 82px}
+.em dl dt img {height: 168px;width: 168px;border-radius: 100%;margin-bottom: 20px}
+.em dl dd a{font:16px "微软雅黑";line-height: 16px;}
+.em dl a:hover{color: chocolate}
+
+.pro{background:#f0f3f6;height: 405px;}
+.pro .ser {position: relative}
+.pro .ser h1{font: 32px;padding:130px 0 21px 462px;display: inline-block;line-height: 32px}
+.pro .ser dl dt img{position: absolute;top: 0px;left: 0px}
+.pro .ser dl dd {margin-left: 462px;width:459px;font: 14px "微软雅黑";line-height: 28px;color: #2e2e2e}
+
+.adv p{margin-bottom:38px}
+.adv dl {margin:0 0 44px 80px;float: left;}
+.adv dl:nth-of-type(1){margin-left: 0px}
+.adv dl:nth-of-type(4){margin-left: 0px;margin-bottom: 80px}
+.adv dl dd{width: 271px;line-height: 24px;font-size: 12px;color: #2e2e2e}
+.adv dl h2{font: 16px;color:black;line-height: 26px}
+
+.hotel {background:#f0f3f6;overflow: hidden}
+.ent h1{padding-top: 59px}
+.ent p {margin-bottom: 61px}
+.ent dl{float: left;width: 335px;height: 190px}
+.ent dl:nth-of-type(1){width: 330px;height: 380px;margin-bottom: 98px}
+
+.hosp p{margin-bottom: 47px}
+.hosp dl{position: relative;padding-bottom: 153px;}
+.hosp dl dt img{height:170px;width: 280px;position: absolute;left: 0;top: 0}
+.hosp dl dd {margin-left:311px}
+.hosp dl dd span{font: 16px "微软雅黑";line-height: 16px;margin: 1px 0 8px 0}
+.hosp dl dd{font-size: 12px;font-family: "微软雅黑";color:#2e2e2e;line-height: 24px;width: 404px}
+.hosp dl dt em{height: 50px;width: 50px;background: url(../images/hosptal_icon_03.png) no-repeat;
+			   display: inline-block;border-radius: 100%;position: absolute;left:311px;top:119px}
+.hosp dl dt i{height: 36px;width: 338px;background: url(../images/hosptal_txt.png)no-repeat;
+                 display: inline-block;position: absolute;left: 372px;top:126px;}
+.hosp dl dt span{line-height: 14px;font: 14px;position: absolute;left:397px;top: 138px}
+.hosp dl dd:nth-of-type(3) span{width:86px;text-align: center;line-height: 26px;color:#1ab4c3;
+	                            font-size: 16px;position: absolute;left:832px;top: 26px}
+.hosp dl dd button{width: 114px;height: 32px;background:#1ab4c3;color: white;border-radius: 2px;
+	               font: 14px "微软雅黑";border: 0px;position: absolute;left: 823px;top: 87px}
+.hosp button:hover {cursor: pointer}
+
+.con {position: relative;height:321px}
+.con h2 {font: 60px Adobe Caslon Pro;color:#1ab4c3;text-align: center;text-transform: uppercase;padding-top:109px}
+.con p img {position: absolute;top:0px;left: 50%;margin-left: 61px}
+.con p{font:28px "Adobe 黑体 Std";line-height: 38px;width: 280px;text-align: left;padding-left: 180px}
