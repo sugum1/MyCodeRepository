@@ -108,8 +108,7 @@
 </div>
 
 <script>
-
-	var imgsrc = [
+var imgsrc = [
 		{"onsrc":"images/shadow1.png","outsrc":"images/check_icon_01.png"},
 		{"onsrc":"images/shadow2.png","outsrc":"images/check_icon_02.png"},
 		{"onsrc":"images/shadow3.png","outsrc":"images/check_icon_03.png"},
@@ -135,7 +134,8 @@ $(function(){
 	   var n =parseInt(i)
 	   $(this).attr("src",imgsrc[n].outsrc)
 })
-})
+});
+
 </script>
 <!--体检流程-->
 <div class="hosp cl box">
@@ -186,7 +186,22 @@ $(function(){
 	</div>
 </div>
 <!--尾部-->
-
-
+<div class="mask">
+	
+</div>
+	<ul class="window">
+	<h2>立即预定</h2>
+		<li><input type="text" placeholder="姓名"></li>
+		<li><input type="text" placeholder="电话"></li>
+		<li><input type="text" placeholder="邮箱"></li>
+		<li><textarea placeholder="您的留言"></textarea></li>
+		<li><button class="submit">提交预定</button></li>
+		<li class="x"><a href="javascript:;" class="close">╳</a></li>
+	</ul>
+	<ul class="sure">
+		<li><span>预订成功</span></li>
+		<li><button>确定</button></li>
+	</ul>
+<!--弹出窗口-->
 </body>
 </html>
