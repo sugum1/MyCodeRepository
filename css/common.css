@@ -54,4 +54,8 @@ button:hover{cursor: pointer}
 
 .sure {position:fixed;left:50%;top:40%;;margin-left: -159px; z-index: 102;width: 377px;height: 70px;background:white;font-size:14px;text-align:center;border: 1px solid #d1d1d1;padding-top: 5px;overflow: hidden;display: none}
 .sure button{width: 114px;height:32px;background:#1ab4c3;font: 14px "微软雅黑";border:0px;border-radius:3px;color: white;text-align: center}
+/*确认窗口*/
+
+
+
 

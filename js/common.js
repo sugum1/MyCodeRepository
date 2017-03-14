@@ -25,5 +25,11 @@ $(function(){
 	 $(".mask").fadeOut()
  })
  
-})
+});
 //弹出窗口
+
+function unable(){
+	alert("该页面暂时未投入使用")
+};
+
+//未投入使用的页面
